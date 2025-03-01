@@ -1,6 +1,6 @@
 # movie_app
 
-A new Flutter project.
+🎬 Movie App – A sleek and user-friendly app that displays movies along with their details, including descriptions, ratings, cast, release dates, and more. No streaming, just pure movie information!🍿✨
 
 ## Getting Started
 
